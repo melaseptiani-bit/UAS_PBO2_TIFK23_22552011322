@@ -44,5 +44,5 @@ Memberikan laporan transaksi </p>
 ## Demo Proyek
 <ul>
   <li>Github: <a href="https://github.com/melaseptiani-bit">Github</a></li>
-  <li>Youtube: <a href="https://youtu.be/LJMNqtjk1qg">Youtube</a></li>
+  <li>Youtube: <a href="https://youtu.be/kI6P7lJ4Kjg">Youtube</a></li>
 </ul>
